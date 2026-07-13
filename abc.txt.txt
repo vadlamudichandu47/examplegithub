@@ -1,0 +1,4 @@
+class car(models.Model):
+      carID = models.IntegerField()
+      carName = models.CharField(max_length)
+      carPrize = models.IntegerField()
