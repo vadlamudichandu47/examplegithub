@@ -1,0 +1,4 @@
+class employee(models.Model):
+         empId = integerField();
+         empName = charField();
+         empSal  = integerField();
