@@ -1,8 +1,8 @@
-story = 122
+story = 121
 
-class register
-{
-	string username;
+class login {
+        string username;
 	string pw;
-	string email;
 }
+
+
