@@ -1,0 +1,8 @@
+story = 122
+
+class register
+{
+	string username;
+	string pw;
+	string email;
+}
