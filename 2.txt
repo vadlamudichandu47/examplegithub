@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 story 123
+=======
+story 2
+>>>>>>> Stashed changes
